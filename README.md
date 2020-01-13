@@ -1,6 +1,6 @@
 # Development
 
-This project simplifies doing code katas in ruby. It has RSpec and cucumber setup (including code coeverage) and provides some shell scripts to simplify use from the command line.
+This project simplifies doing code katas in ruby. It has RSpec and cucumber setup (including code coverage) and provides some shell scripts to simplify use from the command line.
 
 ## Getting Started
 
