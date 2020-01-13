@@ -1,0 +1,5 @@
+spec/examples.txt
+.DS_Store
+.idea
+coverage
+Gemfile.lock
