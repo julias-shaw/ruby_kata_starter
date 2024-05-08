@@ -6,6 +6,9 @@ This project simplifies doing code katas in ruby. It has RSpec and cucumber setu
 
 1. Checkout this project from git - `git clone git@github.com:julias-shaw/ruby_kata_starter.git`
 1. Change into the project directory - `cd ruby_kata_starter`
+1. Install the correct version of ruby `asdf install`
+1. Install bundler - `gem install bundler`
+    - You may be prompted
 1. Install rubygems - `bundle install`
 
 
